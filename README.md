@@ -17,7 +17,7 @@
 * React,
 * Yarn;
 * WebPack, Loaders, React Router Dom, Styled Components, React Icons, Polished
-
+* ESlint, Babel, Prettier,
 
 ----
 <br>
