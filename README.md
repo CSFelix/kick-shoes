@@ -14,6 +14,7 @@
 
 * Visual Studio Code;
 * Git;
+* React,
 
 
 ----
